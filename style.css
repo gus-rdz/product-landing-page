@@ -1,7 +1,7 @@
 /* 
 City Skyline
 */
-:root {
+/* :root {
   --building-color1: #aa80ff;
   --building-color2: #66cc99;
   --building-color3: #cc6699;
@@ -56,7 +56,7 @@ body {
 }
 
 /* BACKGROUND BUILDINGS - "bb" stands for "background building" */
-.bb1 {
+/* .bb1 {
   width: 10%;
   height: 70%;
 }
@@ -147,7 +147,7 @@ body {
 }
 
 /* FOREGROUND BUILDINGS - "fb" stands for "foreground building" */
-.fb1 {
+/* .fb1 {
   width: 10%;
   height: 60%;
 }
@@ -316,4 +316,6 @@ body {
       #223 100%
     );
   }
-}
+} */
+
+/* Magazine */
