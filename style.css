@@ -319,7 +319,7 @@ body {
 } */
 
 /* Magazine */
-*,
+/* *,
 ::before,
 ::after {
   padding: 0;
@@ -520,4 +520,16 @@ hr {
   .hero-title {
     font-size: 4.5rem;
   }
+} */
+
+/* Product Landing Page */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+  font-family: "Lato", sans-serif;
 }
